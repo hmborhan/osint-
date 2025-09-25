@@ -1,7 +1,7 @@
 
 
 <div align="center">
-     <h1>Awesome OSINT Chrome Extensions</h1>
+     <h1>Awesome OSINT Chrome Extensions Hm Borhan Uddin </h1>
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ubikron/awesome-osint-chrome-extensions"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ubikron/awesome-osint-chrome-extensions"> <br>
      <br>
